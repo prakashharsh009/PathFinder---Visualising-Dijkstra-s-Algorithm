@@ -7,6 +7,9 @@ https://pathfinder-visualisation.herokuapp.com/
 
 Path Finding Visualizer
 
+![path1](https://user-images.githubusercontent.com/70228834/148892771-a163152c-1263-4c54-ae2c-f7d05658bae5.jpg)
+
+
 Getting Started with Create React App
 
 
