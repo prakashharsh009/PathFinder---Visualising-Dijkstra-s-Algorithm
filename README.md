@@ -10,6 +10,21 @@ Path Finding Visualizer
 ![path1](https://user-images.githubusercontent.com/70228834/148892771-a163152c-1263-4c54-ae2c-f7d05658bae5.jpg)
 
 
+
+![path2](https://user-images.githubusercontent.com/70228834/148892865-82baec29-ad7b-4f25-a6ad-0480025799ad.jpg)
+
+
+
+
+![path2](https://user-images.githubusercontent.com/70228834/148892886-44f4ab5b-1630-4520-9590-39dc4ea3f898.jpg)
+
+
+
+
+![path4](https://user-images.githubusercontent.com/70228834/148892913-9e8d03d6-3d3a-4ead-ba04-b08442ce5086.jpg)
+
+
+
 Getting Started with Create React App
 
 
